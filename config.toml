@@ -1,6 +1,6 @@
 # Your now.sh domain. You can leave it with http://localhost:1313/
 # For local purposes
-baseURL = "https://rosaacrata.vercel.app/"
+baseURL = "https://www.rosaacrata.xyz/"
 languageCode = "es-ES"
 title = "Rosa Acrata🏴🌹"
 theme = "ezhil"
