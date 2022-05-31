@@ -40,18 +40,6 @@ name = "About"
 url = "/about"
 weight = 3
 
-# Social media links which shows up on site header.
-# Uses feather icons for icons. You can [search icon names from here](https://feathericons.com/).
-[[params.social]]
-name = "mastodon"
-icon = "user"
-url = "https://hispagatos.space/@RosaAcrata"
-
-[[params.social]]
-name = "Instagram"
-icon = "Instagram"
-url = "https://www.instagram.com/rosa_acrata/"
-
 # Enable tags.
 [taxonomies]
    tag = "tags"
