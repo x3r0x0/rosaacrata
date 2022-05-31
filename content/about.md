@@ -1,13 +1,13 @@
 ---
-title: "Sobre mi"
+title: "Sobre NUestro Colectivo"
 date: 2022-05-30T02:12:56-05:00
 draft: false
 ---
 
 **Hispagatos Member**
 
-- **Blog** https://hispagatos.org
+- **Blog** https://www.rosaacrata.xyz/
 
-- **Mastodon** https://hispagatos.space/@x3r0x
+- **Mastodon** https://hispagatos.space/@RosaAcrata
 
-- **Correo** x3r0x@hispagatos.org
+- **Correo** rosaacrata@protonmail.com
