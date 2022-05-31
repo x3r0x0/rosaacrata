@@ -1,5 +1,5 @@
 ---
-title: "Sobre NUestro Colectivo"
+title: "Sobre nestro colectivo."
 date: 2022-05-30T02:12:56-05:00
 draft: false
 ---
