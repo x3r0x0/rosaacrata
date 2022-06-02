@@ -1,7 +1,7 @@
 title = "Rosa Acrata🏴🌹"
 baseURL = "https://www.rosaacrata.xyz/"
 languageCode = "es-ES"
-theme = ["gananke"]
+theme = "gananke"
 resourceDir = "../resources"
 
 DefaultContentLanguage = "en"
@@ -37,5 +37,5 @@ enableRobotsTXT = true
   recent_posts_number = 3
 
 [[params.ananke_socials]]
-name = "twitter"
-url = "https://twitter.com/GoHugoIO"
+name = "instagram"
+url = "https://www.instagram.com/rosa_acrata/"
