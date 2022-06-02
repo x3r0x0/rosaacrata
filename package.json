@@ -1,0 +1,8 @@
+{
+    "name": "rosaacrata",
+    "version": "0.1",
+    "scripts": {
+        "install": "curl -L -O https://github.com/gohugoio/hugo/releases/download/v0.100.0/hugo_0.100.0_Linux-64bit.tar.gz && tar -xzf hugo_0.100.0_Linux-64bit.tar.gz",
+        "build": "./hugo"
+    }
+}
