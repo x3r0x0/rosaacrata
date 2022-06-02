@@ -26,4 +26,4 @@ Una reflexion por:
 - [Blog de x3r0x](https://www.x3r0x.xyz/)
 - Rosa Acrata
 - [Rosa Acrata en Mastodon](https://hispagatos.space/@RosaAcrata)
-- [Rosa Acrata en Instagram] (https://www.instagram.com/rosa_acrata/)
+- [Rosa Acrata en Instagram](https://www.instagram.com/@rosa_acrata/)
