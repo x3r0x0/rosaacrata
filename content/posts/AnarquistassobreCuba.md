@@ -7,7 +7,7 @@ tags:  ["anarquismo", "revolucion", "cuba"]
 images: ["https://www.portaloaca.com/wp-content/uploads/2017/02/anarquista_cuband17.jpg"]
 ---
 ### ¿Cual es la posición  del anarquismo frente a la revolución cubana?
-![Bandera del Hacker Anarquista](/images/anarquista_cuband17.jpg)
+![Banderas Anarquistas](/images/anarquista_cuband17.jpg)
 ---
 Nosotros apoyamos el fenómeno revolucionario cubano en cuanto este significa un esfuerzo popular por resolver los grandes problemas del país y liquidar seculares privilegios y abusos irritantes e injustos. 
 Nos oponemos resueltamente a que las fuerzas reaccionarias que hoy combaten el castrocomunismo, simplemente porque añoran el retorno a un pasado de corrupción y de vergüenza, recapturen el poder político.
