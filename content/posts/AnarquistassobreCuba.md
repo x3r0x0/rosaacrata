@@ -1,5 +1,5 @@
 ---
-title: "Anarquistas sobre la revolucion Cubana"
+title: "Anarquistas sobre la revolución Cubana"
 date: 2021-07-13T11:18:58-05:00
 draft: false
 author: "x3r0x"
